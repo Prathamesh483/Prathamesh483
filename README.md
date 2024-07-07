@@ -109,9 +109,9 @@
 
 <h1 align="center">📊 GitHub Stats :-</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikesh-revandikar&theme=radical&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-revandikar&theme=radical&hide_border=false" height="150" alt="contribution graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh-revandikar&theme=radical&show_icons=true&hide_border=false&layout=compact"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh483&theme=radical&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh483&theme=radical&hide_border=false" height="150" alt="contribution graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh483&theme=radical&show_icons=true&hide_border=false&layout=compact"  />
 </div>
 
 <div align="center">
@@ -121,7 +121,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rishikesh-revandikar/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Prathamesh483/count.svg?"  />
 </div>
 
 ###
